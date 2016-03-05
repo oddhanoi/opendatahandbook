@@ -1,6 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: Big Data 
 ---
-A collection of data so large that it cannot be stored, transmitted or processed by traditional means. The increasing availability of and need to process such datasets (for example, huge collections of weather or other scientific data) has led to the development of specialised computer technologies, architectures and programming languages.
+Một tập dữ liệu rất lớn không thể lưu trữ, truyền tải hoặc xử lý theo phương pháp truyền thống. Sự gia tăng khả năng và nhu cầu xử lý các tập dữ liệu đó (ví dụ, tập lớn các dữ liệu về thời tiết hoặc dữ liệu khoa học khác) đã dẫn dắt sự phát triển các công nghệ, kiến trúc và ngôn ngữ máy tính đặc biệt.
