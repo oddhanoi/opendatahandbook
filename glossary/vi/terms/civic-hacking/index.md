@@ -1,7 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: Civic Hacking
 ---
-
-Building tools and communities, usually online, that address particular civic or social problems. Examples could be tools that help users meet like-minded people locally based on particular interests, report broken infrastructure to their local council, or collaborate to clear litter from their neighbourhood. Local-level open data is particularly useful for civic hacking projects.
+công cụ xây dựng và cộng đồng, thường trực tuyến, nhằm giải quyết các vấn đề dân sự hoặc xã hội cụ thể. Ví dụ có thể là công cụ giúp người dùng gặp gỡ những người có đầu óc địa phương dựa trên lợi ích cụ thể, cơ sở hạ tầng báo cáo bị hỏng để hội đồng địa phương của họ, hoặc cộng tác để làm sạch rác từ khu vực của mình. dữ liệu mở ở cấp địa phương là đặc biệt hữu ích cho các dự án hacking dân.
