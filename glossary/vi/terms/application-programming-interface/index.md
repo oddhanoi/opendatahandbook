@@ -1,7 +1,7 @@
 ---
 section: terms
-lang: en
-title: Application Programming Interface
+lang: vi
+title: Giao diện lập trình ứng dụng
 ---
 
-A way computer programs talk to one another. Can be understood in terms of how a programmer sends instructions between programs.
+Cách để các chương trình máy tính có thể giao tiếp với nhau. Có thể hiểu rằng đây là cách mà lập trình viên gửi các chỉ dẫn giữa các chương trình
