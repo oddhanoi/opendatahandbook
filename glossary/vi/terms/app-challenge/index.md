@@ -1,6 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: App challenge
 
-A popular form of {community engagement} by data publishers that invites programmers to develop [App / Application](../app-application/) that solve a problem or provide a service using the published data
+Một hình thức phổ biến của {kết nối cộng đồng} bằng khởi tạo dữ liệu mời các lập trình viên để lập trình những ứng dụng giải quyết các vấn đề hoặc cung cấp 1 dịch vụ sử dụng dữ liệu được khởi tạo.
