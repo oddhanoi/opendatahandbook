@@ -1,7 +1,9 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: Cloud
 ---
 
-Data stored 'in the cloud' is handled by a [hosting](../host/) company, relieving the data owner of the need to manage its physical storage. Instead of being stored on a single machine, it may be stored across or moved between multiple machines in different locations, but the data owner and users do not need to know the details. The hosting company is responsible for keeping it available and accessible via the [internet](../internet/).
+Dữ liệu lưu trữ 'trên đám mây' được quản lý bởi một công ty [lưu trữ dữ liệu](../host/), nhằm mục đích làm giảm bớt gánh nặng cho người sở hữu dữ liệu trong việc quản lý và lưu trữ dữ liệu dưới dạng vật lý. Thay vì được lưu trữ trên một máy tính đơn lẻ, dữ liệu có thể được lưu trữ hoặc di chuyển giữa nhiều máy tính ở các vị trí khác nhau mà người sở hữu dữ liệu và người sử dụng không cần biết đến những chi tiết này. Công ty lưu trữ dữ liệu sẽ chịu trách nhiệm cho việc dữ liệu luôn sẵn sàng và có thể truy cập thông qua [internet](../internet/).
+
+
