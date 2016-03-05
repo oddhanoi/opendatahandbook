@@ -3,5 +3,5 @@ section: terms
 lang: en
 title: App / Application
 ---
-
-A piece of software (short for 'application'), especially one designed to run on the [web](../web/) or on mobile phones and similar platforms. Apps can make network connections to large databases and thus be a powerful way of consuming open data, which may be real-time, personalised, and (using a mobile phone's [GPS](../gps/)) location-specific information. [Crowdsourcing](../crowdsourcing/) apps can also be used to build or improve datasets.
+Một phần cuả phần mềm, đặc biệt là thiết kế và chạy trên [web](../web) hoặc trên điện thoại di động và các nền tảng giống nhau. Các ứng dụng có thể thực hiện bởi việc kết nối đến các cơ sở dữ liệu lớn vì thế đây là cách mạnh mẽ để phân tán dữ liệu mở, chúng có thể là thời gian thực, cá nhân và (sử dụng điện thoại di động [GPS](../gps/)) địa điểm thông tin cụ thể.
+[Sử dụng ưu thế đám đông](../Sử dụng ưu thế đám đông/) ứng dụng cũng có thể được sử dụng để xây dựng hoặc cài thiện dữ liệu.
