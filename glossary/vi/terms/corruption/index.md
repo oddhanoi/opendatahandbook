@@ -1,7 +1,7 @@
 ---
 section: terms
-lang: en
-title: Corruption
+lang: vi
+title: Tham nhũng
 ---
+Sự lạm dụng của các chức vị công chúng hoặc các nhà đầu tư,... bằng cách tham ô tiền, hối lộ, tuyên bố các khoản chi phí bất hợp lý, ưu tiên người thân trái phép hoặc các nhóm cụ thể trong các dịch vụ công cộng hoặc các cuộc gặp,... Dữ liệu mở và tổng quát hơn, [Chính phủ mở](../open-government/) là một một công cụ quan trong trong cuộc chiến chống tham nhũng.
 
-Misuse of public positions or funds, e.g. by embezzling money, extorting bribes, claiming unreasonable expenses, illicitly favouring friends or particular groups in public services or appointments, etc. Open data and, more generally, [open government](../open-government/) is an important tool in the fight against corruption.
