@@ -1,6 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: Giao diện lập trình ứng dụng
 ---
 
