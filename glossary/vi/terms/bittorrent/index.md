@@ -1,7 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: BitTorrent
 ---
-
-BitTorrent is a protocol for distributing the bandwith for transferring very large files between the computers which are participating in the transfer. Rather than downloading a file from a specific source, BitTorrent allows peers to download from each other.
+BitTorrent là giao thức cho việc phân phối băng thông để truyền các tệp rất lớn giữa các máy tính đang tha gia trong việc truyền. Thay vì việc tải về một tệp từ nguồn cụ thể, BitTorrent cho phép những người ngang hàng tải về lẫn của nhau. 
