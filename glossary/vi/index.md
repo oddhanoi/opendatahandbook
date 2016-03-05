@@ -1,9 +1,9 @@
 ---
 redirect_from:
-  - /en/glossary.html
-  - /glossary/en/terms/
+  - /vi/glossary.html
+  - /glossary/vi/terms/
   - /glossary/
 layout: glossary
-lang: en
+lang: vi
 title: Glossary
 ---
