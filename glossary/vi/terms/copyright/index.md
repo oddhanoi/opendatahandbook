@@ -1,7 +1,7 @@
 ---
 section: terms
-lang: en
-title: Copyright
+lang: vi
+title: Bản quyền
 ---
 
-A legal right over intellectual property (e.g. a book) belonging to the creator of the work. While individual data (facts) cannot be copyright, a database will in general be covered by copyright protecting the selection and arrangement of data within it. Within the European Union separate '[database rights](../database-rights/)' protect a database where there was a substantial effort in 'obtaining' the data. A copyright holder may use a [licence](../licence/) to grant other people rights in the protected material, perhaps subject to specified restrictions.
+Quyền sở hữu trí tuệ hợp pháp (Ví dụ: Một quyển sách) sẽ thuộc về người tạo ra nó. Trong khi đó dữ liệu cá nhân (trên thực tế) không thể được coi là có bản quyền, một cơ sở d ữ liệu nói chung sẽ được đảm bảo bởi bản quyền, nó sẽ bảo vệ các phần và sắp xếp dữ liệu bên trong nó. Trong Liên Minh Châu Âu '[quyền cơ sở dữ liệu](../database-rights/)' sẽ bảo vệ cơ sở dữ liệu mà ở đó có một nỗ lực đáng kể trong việc 'lấy' dữ liệu. Một người giữ bản quyền có thể sử dụng [giấy phép](../licence/) để cấp quyền cho những người khác trong việc bảo về tài liệu, có lẽ phải chịu hạn chế nhất định.
