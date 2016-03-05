@@ -1,6 +1,6 @@
 ---
 section: terms
-lang: en
+lang: vi
 title: Attribution 
 ---
-Acknowledging the source of data when using or re-publishing it. A data [licence](../licence/) permitting the data to be used may include a requirement to attribute the source. Data subject to this restriction may still be considered [open data](../open-data/) according to the [Open Definition](../open-definition/).
+Ghi nhận nguồn dữ liệu khi sử dụng hoặc phát hành lại. [Giấy phép](../licence/) cho phép sử dụng dữ liệu có thể kèm theo yêu cầu ghi rõ nguồn. Dữ liệu chịu sự hạn chế này vẫn có thể được coi là [dữ liệu mở](../open-data/) theo [Định Nghĩa Mở](../open-definition/).
